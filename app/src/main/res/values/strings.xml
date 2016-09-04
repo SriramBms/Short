@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrlShortener</string>
+    <string name="url_hint">Url</string>
+    <string name="title_hint">Title</string>
+    <string name="button_shorten">Shorten!</string>
+    <string name="error_title">Title should not be empty</string>
+    <string name="error_url">Url should not be empty</string>
+</resources>
